@@ -2,3 +2,4 @@
 
 Personal_Expences_App is build to get knowleadge about :
 -
+Running apps on diffrent devices and debuging apps
